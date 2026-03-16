@@ -110,7 +110,7 @@ Year
 Dashboard Preview
 
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](E-Commerce%20Customer%20Sales%20Analysis/image/dashboard_preview.png)
 Skills Demonstrated
 Data Cleaning using Pandas
 SQL Joins & Aggregations
